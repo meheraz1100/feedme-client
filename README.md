@@ -8,6 +8,10 @@ FeedMe is a **Meal Planning & Delivery Web Application** that allows users to pe
 
 [Live Demo](https://feedme-meal.vercel.app/)
 
+## Credentials
+Mail : admin@gmail.com
+Password : 123456
+
 ## Features
 
 ### 1. **User Authentication**
@@ -103,7 +107,7 @@ FeedMe is a **Meal Planning & Delivery Web Application** that allows users to pe
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ifajul89/feedme.git
+   git clone https://github.com/meheraz1100/feedme-client.git
    ```
 
 2. **Install dependencies for frontend and backend:**

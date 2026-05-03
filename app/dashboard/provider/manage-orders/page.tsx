@@ -619,7 +619,7 @@ export default function ManageOrdersPage() {
         >
           <div className="flex items-center">
             <div
-              className={`mr-3 flex-shrink-0 rounded-full p-1.5 ${
+              className={`mr-3 shrink-0 rounded-full p-1.5 ${
                 toastMessage.type === "success" ? "bg-green-100" : "bg-red-100"
               }`}
             >
