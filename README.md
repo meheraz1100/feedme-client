@@ -8,8 +8,12 @@ FeedMe is a **Meal Planning & Delivery Web Application** that allows users to pe
 
 [Live Demo](https://feedme-meal.vercel.app/)
 
-## Credentials
+## Meal Provider Credentials
 Mail : admin@gmail.com
+Password : 123456
+
+## Customer Credentials
+Mail : coadmin@gmail.com
 Password : 123456
 
 ## Features
