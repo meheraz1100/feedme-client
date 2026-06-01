@@ -24,7 +24,7 @@ interface Meal {
   preparationTime: number;
   isAvailable: boolean;
   nutritionalInfo?: NutritionalInfo;
-}
+} 
 
 interface Props {
   meals: Meal[];
